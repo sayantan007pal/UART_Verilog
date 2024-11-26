@@ -131,7 +131,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Your Name - your.email@example.com
 
-Project Link: [https://github.com/yourusername/uart-communication](https://github.com/yourusername/uart-communication)
+Project Link: [https://github.com/sayantan007pal/UART_Verilog](https://github.com/sayantan007pal/UART_Verilog)
 
 ## Acknowledgments
 - Inspired by open-source digital design practices
